@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+         <a href="itms-services://?action=download-manifest&url=https://txdsos.blob.core.windows.net/txd-sos-cl/sos.plistt">Descargar-SOS</a> </code>
         </p>
       </main>
 
